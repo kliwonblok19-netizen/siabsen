@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sistem Informasi Absensi SMK",
+  "description": "Aplikasi web presensi dan absensi siswa SMK lengkap untuk Administrator, Wali Kelas, Guru Mata Pelajaran, dan Sekretaris Kelas dengan rekap kehadiran, pembatasan rombel, audit log, dan ekspor-impor data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
